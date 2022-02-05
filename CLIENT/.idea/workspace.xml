@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc967085-2da6-4268-be32-5a8fbaddf3c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../BACKEND/Real-Estate/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Real-Estate/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/java/com/shkulaku/RealEstate/RealEstateApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/java/com/shkulaku/RealEstate/RealEstateApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/java/com/shkulaku/RealEstate/controller/RealEstateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/java/com/shkulaku/RealEstate/controller/RealEstateController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/java/com/shkulaku/RealEstate/model/RealEstate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/java/com/shkulaku/RealEstate/model/RealEstate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/java/com/shkulaku/RealEstate/model/dto/CarsAndBikes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/java/com/shkulaku/RealEstate/model/payload/CarsAndBikes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/java/com/shkulaku/RealEstate/model/dto/HouseAndProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/java/com/shkulaku/RealEstate/model/payload/HouseAndProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/java/com/shkulaku/RealEstate/model/dto/RealEstateDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/java/com/shkulaku/RealEstate/model/payload/RealEstateDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/java/com/shkulaku/RealEstate/repository/RealEstateMongoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/java/com/shkulaku/RealEstate/repository/mongo/RealEstateMongoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/java/com/shkulaku/RealEstate/repository/implementation/RealEstateRepositoryImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/java/com/shkulaku/RealEstate/repository/implementation/RealEstateRepositoryImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/java/com/shkulaku/RealEstate/repository/repositoryInterface/RealEstateRepositoryInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/java/com/shkulaku/RealEstate/repository/repositoryInterface/RealEstateRepositoryInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/java/com/shkulaku/RealEstate/service/implementation/RealEstateServiceImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/java/com/shkulaku/RealEstate/service/implementation/RealEstateServiceImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/java/com/shkulaku/RealEstate/service/serviceInterface/RealEstateServiceInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/java/com/shkulaku/RealEstate/service/serviceInterface/RealEstateServiceInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../BACKEND/Real-Estate/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/.idea/FRONTEND.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/src/app/model/real-estate.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FRONTEND/real-estate-frontend/tslint.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="24hArLMtSfr6nC9qr268cvqYtXT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc967085-2da6-4268-be32-5a8fbaddf3c3" name="Default Changelist" comment="" />
+      <created>1644072642822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644072642822</updated>
+      <workItem from="1644072644120" duration="237000" />
+      <workItem from="1644073250250" duration="90000" />
+      <workItem from="1644073628529" duration="65000" />
+      <workItem from="1644079881006" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

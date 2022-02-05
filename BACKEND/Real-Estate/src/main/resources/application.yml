@@ -1,0 +1,15 @@
+server:
+  port: 8080
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/REAL_ESTATE
+api:
+  controller:
+    realEstate: /api/realEstate
+    auth: /api/auth
+security:
+  jwt:
+    token:
+      secret-key: bezKoderSecretKey
+      jwtExpirationMs: 86400000

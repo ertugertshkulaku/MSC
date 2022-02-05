@@ -1,0 +1,28 @@
+<div class="container">
+  <div class="pt-20">
+    <mat-card >
+      <form  *ngIf="!isLoggedIn" [formGroup]="form"  (ngSubmit)="onSubmit(form.value)">
+        <div>
+          <mat-card-header>Username</mat-card-header>
+          <mat-form-field>
+            <label>
+              <input type="email"  formControlName="username" matInput>
+            </label>
+          </mat-form-field>
+          <mat-card-header>Password</mat-card-header>
+          <mat-form-field>
+            <label>
+              <input type="password"  formControlName="password" matInput>
+            </label>
+          </mat-form-field>
+        </div>
+        <button>Login</button>
+      </form>
+      <div class="alert alert-success" *ngIf="isLoggedIn">
+        Logged in as {{ roles }}.
+      </div>
+    </mat-card>
+  </div>
+</div>
+
+
